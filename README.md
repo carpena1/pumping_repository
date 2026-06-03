@@ -41,7 +41,7 @@ Files needed to run simulations for the Havis experiments at high R.
 2. Folder `havisL` contains template files read by HYDRUS during the simulation
 3. `parameters.csv` — simulation parameters (taken from Ahuja loam best simulations); the R script reads this and runs one simulation per row
 4. `pumping_results.csv` — outputs for the parameters in `parameters.csv`
-5. `plot_data_havis.xlsx` — best outputs for each simulation type and experimental data for plotting
+5. `plot_data_havis.xlsx` — outputs and experimental data for plotting
 
 ---
 
