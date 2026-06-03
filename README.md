@@ -1,4 +1,8 @@
-# Pumping Repository — Supplementary Materials
+# Supplementary Materials
+## Mechanistic modeling of the impact of rainfall pumping on soil solute remobilization into runoff
+**By Lucie Guertault and R. Muñoz-Carpena**
+
+*Under review in HESS journal, June 2026*
 
 This repository contains the supplementary simulation files and data associated with the manuscript submitted to HESS.
 
