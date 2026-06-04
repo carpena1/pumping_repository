@@ -8,6 +8,18 @@ This repository contains the supplementary simulation files and data associated 
 
 ---
 
+## Note on running the R scripts with Hydrus-1D
+
+Prior to running the R script, the Hydrus executable file H1D_CALC.EXE must be added to the same folder where the R script is following these instructions:
+
+1. The EXE file can be obtained at https://www.pc-progress.com/en/Default.aspx?Downloads.
+2. Download the Hydrus1D_4.17.0140.exe and install it in your computer. The executable file H1D_CALC.EXE will be found in the installation folder.
+3. Copy the file and place them in the same folder as the R script that you intend to run.
+
+A place holder file "H1D_CALC_EXE_HERE.txt" has been placed in the folders described below where you should place the H1D_CALC.EXE before running the scripts.
+
+---
+
 ## Contents
 
 ### `ahuja_tests/`

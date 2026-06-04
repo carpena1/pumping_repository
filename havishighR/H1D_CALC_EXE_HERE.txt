@@ -1,0 +1,8 @@
+## Note on running the R scripts with Hydrus-1D
+
+This is a place holder file for where the Hydrus-1D excecutable should be to run the R scripts. You should replace this file in this location by the Hydrus executable file H1D_CALC.EXE. You can get the excutable following these instructions:
+
+1. The EXE file can be obtained at https://www.pc-progress.com/en/Default.aspx?Downloads.
+2. Download the Hydrus1D_4.17.0140.exe and install it in your computer. The executable file H1D_CALC.EXE will be found in the installation folder.
+3. Copy the file and place them in the same folder as the R script that you intend to run.
+
