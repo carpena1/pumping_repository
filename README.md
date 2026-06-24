@@ -57,12 +57,14 @@ Files needed to run simulations for the Havis experiments at high R.
 
 ---
 
-### `Mass_depth_Bar.xlsx`
+### `Figs/`
+
+Files with manuscript figures are included with spreadsheets with values used in creating the figures.
+
+## `Fig3_Mass_depth_Bar.xlsx`
 
 Data for creating Figure 3 (mass and depth of extraction).
 
----
-
-### `graph palmer yu depth vs pressure.xlsx`
+## `Fig_graph palmer yu depth vs pressure.xlsx`
 
 Digitized data from Palmer and Yu articles.
