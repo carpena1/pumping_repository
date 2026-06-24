@@ -69,6 +69,6 @@ Data for creating Figure 3 (mass and depth of extraction).
 
 Digitized data from Palmer and Yu articles to create controur graph.
 
-#### `Fig4_Exp_points.txt'
+#### `Fig4_Exp_points.txt`
 
 Points for experiental cases in Yu and Palmer controur graphs 
