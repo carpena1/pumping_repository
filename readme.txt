@@ -28,8 +28,10 @@ contains the files needed to run simulations for the ahuja experiments.
 5. the plot_data_havis.xlsx contains the best outputs for each type of simulation, and the experimental data for plotting
 
 
-Mass_depth_bar
+Figs
+
+Fig3_Mass_depth_bar
 contains data for creating figure 3 (mass and depth of extraction)
 
-Graph Palmer yu depth vs pressure
+Fig4_Graph Palmer yu depth vs pressure
 contains the digitized data from Palmer and Yu articles.
