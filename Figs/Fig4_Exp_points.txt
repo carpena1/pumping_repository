@@ -1,0 +1,30 @@
+Palmer (v=5.0 m/s)
+Interpolated Z values at the special points:
+  clay‑Ahuja      → Z = 0.016247  (variance ≈ 1.05e-04)
+  loam‑Ahuja      → Z = 0.016247  (variance ≈ 1.05e-04)
+  sandy loam‑Ahuja → Z = 0.017246  (variance ≈ 1.04e-04)
+  loam‑Havis      → Z = 0.016697  (variance ≈ 1.05e-04)
+
+Yu()- 2mm
+Interpolated pumping pressure (m)  values at the special points:
+  clay‑Ahuja      → Z = 0.066919  (variance ≈ 7.46e-04)
+  loam‑Ahuja      → Z = 0.066919  (variance ≈ 7.46e-04)
+  sandy loam‑Ahuja → Z = 0.122319  (variance ≈ 1.60e-03)
+  loam‑Havis      → Z = 0.149046  (variance ≈ 1.14e-02)
+
+Yu()- 4.5mm
+Interpolated pumping pressure (m) values at the special points:
+  clay‑Ahuja      → Z = 0.118012  (variance ≈ 3.68e-03)
+  loam‑Ahuja      → Z = 0.118012  (variance ≈ 3.68e-03)
+  sandy loam‑Ahuja → Z = 0.187729  (variance ≈ 3.74e-03)
+  loam‑Havis      → Z = 0.188230  (variance ≈ 7.72e-03)
+
+
+Rest of inputs for the experiments are:
+Ahuja-Hig:
+Clay:  runoff depth: 0.05 cm, drop diameter: 3.0 mm, velocity: 5.6 m/s
+Loam:  runoff depth: 0.05 cm, drop diameter: 3.0 mm, velocity: 5.6 m/s
+Sandy loam:  runoff depth: 0.7 cm, drop diameter: 3.0 mm, velocity: 5.6 m/s
+
+Havis-Hig:
+loam: runoff depth: 0.05 cm, drop diameter: 3.2 mm, velocity:7.5 m/s
